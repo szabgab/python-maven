@@ -25,7 +25,7 @@ pluggy==1.0.0
 pycodestyle==2.10.0
 pycparser==2.21
 pyflakes==3.0.1
-PyJWT==2.6.0
+PyJWT==2.8.0
 pymongo==4.3.3
 pytest==7.3.1
 pytest-flake8==1.1.1
